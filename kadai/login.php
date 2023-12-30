@@ -18,8 +18,8 @@
     </header>
     
     <form name="form1" action="login_act.php" method="post">
-        ID:<input type="text" name="lid" />
-        PW:<input type="password" name="lpw" />
+        ID:<input type="text" name="mail" />
+        PW:<input type="password" name="password" />
         <input type="submit" value="ログイン" />
     </form>
 

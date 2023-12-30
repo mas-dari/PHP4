@@ -1,3 +1,9 @@
+<?php
+session_start();
+require_once('funcs.php');
+loginCheck();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

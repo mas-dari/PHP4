@@ -2,7 +2,7 @@
 
 // session_start();
 require_once('funcs.php');
-// loginCheck();\
+loginCheck();
 $pdo = db_conn();
 $id = $_GET['id']; //?id~**を受け取る
 
