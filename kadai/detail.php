@@ -1,6 +1,5 @@
 <?php
-
-// session_start();
+session_start();
 require_once('funcs.php');
 loginCheck();
 $pdo = db_conn();

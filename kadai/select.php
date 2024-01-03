@@ -49,6 +49,7 @@ if ($status === false) {
             <div>
                 <div>
                     <a href="index.php">データ登録</a>
+                    <a href="logout.php">ログアウト</a>
                 </div>
             </div>
         </nav>

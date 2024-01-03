@@ -13,7 +13,10 @@ loginCheck();
 </head>
 <body>
 <!-- ここから下に記載していく -->
-<div><a href="select.php">データ一覧</a></div>
+<div>
+    <a href="select.php">データ一覧</a>
+    <a href="logout.php">ログアウト</a>
+</div>
 <form method="POST" action="insert.php">
     <div>
         <fieldset>
